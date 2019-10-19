@@ -18,11 +18,11 @@ except Exception as e:
 self_token = "NjA2NDQ1Mzc1NDk0MDI5MzEy.XZ8VOQ.LZBhlt3sKYhr7mAMWqqPEzP8I5U"   
 
 
-bot_token = "NjMxNDIyNTA3MTY5MjE4NTY3.XZ7Xqg.1JdfNVnFP75e10ykSRzinNMqGYI"
+bot_token = "NjM1MTU3MDA5MjQ2NzE1OTA0.Xas-GA.nhFI7rSHL9C-P1FL5-uXWX4TLuA"
 
 bot_prefix = "ee"
 
-answer_channel_id = "631771427049177109"
+answer_channel_id = "624662498427011075"
 
 Crowd_channels = ["569420128794443776","630595966436900884"]
 
